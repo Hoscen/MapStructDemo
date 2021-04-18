@@ -11,11 +11,11 @@ import lombok.Data;
 @Builder
 public class User {
 
-    private int userId;
+    private Integer userId;
 
     private String userName;
 
-    private int sex;
+    private Integer sex;
 
     private String phone;
 
